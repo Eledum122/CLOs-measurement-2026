@@ -42,6 +42,10 @@ An Excel/VBA workbook for building the **Table of Specifications** and generatin
 - احتفظ بنسخة أصلية من المصنف قبل الاستخدام لكل شعبة.
 - التقرير النهائي يُعتمد بالتنسيق مع منسق المقرر ولجنة الجودة بالقسم.
 
+- ## التحميل | Download
+- [⬇️ تحميل المصنف (Excel)](https://github.com/Eledum122/CLOs-measurement-2026/raw/main/CLOs_Measurement_Version_06.xlsm)
+- [⬇️ تحميل دليل الاستخدام (PDF)](https://github.com/Eledum122/CLOs-measurement-2026/raw/main/CLOsMeasurement-06-Guide.pdf).
+
 ## الاستشهاد | Citation
 
 > Eledum, H. Y. A. (2026). *CLOs Measurement Workbook (Version 06)*. Department of Statistics, University of Tabuk.
